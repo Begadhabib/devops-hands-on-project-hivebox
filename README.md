@@ -1,55 +1,59 @@
 [![Dynamic DevOps Roadmap](https://img.shields.io/badge/Dynamic_DevOps_Roadmap-559e11?style=for-the-badge&logo=Vercel&logoColor=white)](https://devopsroadmap.io/getting-started/)
 [![Community](https://img.shields.io/badge/Join_Community-%23FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://newsletter.devopsroadmap.io/subscribe)
 [![Telegram Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevOpsHive/985)
-[![Fork on GitHub](https://img.shields.io/badge/Fork_On_GitHub-%2336465D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-%2336465D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Begadhabib/devops-hands-on-project-hivebox)
 
-# HiveBox - DevOps End-to-End Hands-On Project
+# HiveBox – DevOps End-to-End Hands-On Project
 
 <p align="center">
-  <a href="https://devopsroadmap.io/projects/hivebox" style="display: block; padding: .5em 0; text-align: center;">
+  <a href="https://devopsroadmap.io/projects/hivebox">
     <img alt="HiveBox - DevOps End-to-End Hands-On Project" border="0" width="90%" src="https://devopsroadmap.io/img/projects/hivebox-devops-end-to-end-project.png" />
   </a>
 </p>
 
-> [!CAUTION]
-> **[Fork](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork)** this repo, and create PRs in your fork, **NOT** in this repo!
+## Acknowledgment
 
-> [!TIP]
-> If you are looking for the full roadmap, including this project, go back to the [getting started](https://devopsroadmap.io/getting-started) page.
+Special thanks to **Eng. [Ahmed AbouZaid](https://github.com/aabouzaid)** for the HiveBox project idea. His idea and guidance helped create a useful project where learners can practice DevOps tools and skills.
 
-This repository is the starting point for [HiveBox](https://devopsroadmap.io/projects/hivebox/), the end-to-end hands-on project.
+## Introduction
 
-You can fork this repository and start implementing the [HiveBox](https://devopsroadmap.io/projects/hivebox/) project. HiveBox project follows the same Dynamic MVP-style mindset used in the [roadmap](https://devopsroadmap.io/).
+HiveBox is a hands-on DevOps project. It focuses on building, running, and managing an application using different DevOps tools.
 
-The project aims to cover the whole Software Development Life Cycle (SDLC). That means each phase will cover all aspects of DevOps, such as planning, coding, containers, testing, continuous integration, continuous delivery, infrastructure, etc.
+The application gets environmental data from [openSenseMap](https://opensensemap.org/), an open platform that provides data from real sensors.
 
-Happy DevOpsing ♾️
+The main goal is to build the application step by step and learn how to manage it in a real environment.
 
-## Before you start
+## Project Overview
 
-Here is a pre-start checklist:
+This project covers different stages of the Software Development Life Cycle (SDLC), including:
 
-- ⭐ <a target="_blank" href="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap">Star the **roadmap** repo</a> on GitHub for better visibility.
-- ✉️ <a target="_blank" href="https://newsletter.devopsroadmap.io/subscribe">Join the community</a> for the project community activities, which include mentorship, job posting, online meetings, workshops, career tips and tricks, and more.
-- 🌐 <a target="_blank" href="https://t.me/DevOpsHive/985">Join the Telegram group</a> for interactive communication.
+- **Development:** Building and updating the application.
+- **Version Control:** Managing code using Git and GitHub.
+- **Containerization:** Building and running Docker containers.
+- **Testing:** Checking the application and code quality.
+- **CI/CD:** Automating build and delivery processes.
+- **Infrastructure:** Creating and managing cloud resources.
+- **Orchestration:** Managing containers using Kubernetes.
+- **Monitoring:** Checking application health and performance.
 
-## Preparation
-
-- [Create GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) (if you don't have one), then [fork this repository](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork) and start from there.
-- [Create GitHub project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) for this repository (use `Kanban` template).
-- Each phase should be presented as a pull request against the `main` branch. Don’t push directly to the main branch!
-- Document as you go. Always assume that someone else will read your project at any phase.
-- You can get senseBox IDs by checking the [openSenseMap](https://opensensemap.org/) website. Use 3 senseBox IDs close to each other (you can use the following [5eba5fbad46fb8001b799786](https://opensensemap.org/explore/5eba5fbad46fb8001b799786), [5c21ff8f919bf8001adf2488](https://opensensemap.org/explore/5c21ff8f919bf8001adf2488), and [5ade1acf223bd80019a1011c](https://opensensemap.org/explore/5ade1acf223bd80019a1011c)). Just copy the IDs, you will need them in the next steps.
+Each phase adds new tools and skills through practical tasks.
 
 <br/>
+
 <p align="center">
-  <a href="https://devopsroadmap.io/projects/hivebox/" imageanchor="1">
+  <a href="https://devopsroadmap.io/projects/hivebox/">
     <img src="https://img.shields.io/badge/Get_Started_Now-559e11?style=for-the-badge&logo=Vercel&logoColor=white" />
-  </a><br/>
+  </a>
 </p>
 
 ---
 
-## Implementation
+## My Implementation
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+This repository contains my work on the HiveBox project.
+
+I will work through each phase, apply the required tools, and document what I learn and build.
+
+## Project Repository
+
+[View My HiveBox Repository](https://github.com/Begadhabib/devops-hands-on-project-hivebox)
